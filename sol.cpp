@@ -18,7 +18,7 @@ int main() {
 		// second summand should be equal to 1 as well
 		// so place two 1s
 		
-		// gcd(1, n - 3) + lcm(1, 1) = n [true]
+		// 1 + n - 3 + 1 + 1 = n [true]
 		// gcd(1, n - 3) = lcm(1, 1) [true]
 		// because:
 		// the gcd of 1 and any number is 1 itself
